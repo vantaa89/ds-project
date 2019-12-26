@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="bin" type="PLAIN_TEXT" />
+      <mapping ext="gltf" type="SFA" />
+      <mapping ext="obj" type="SFA" />
+    </extensionMap>
+  </component>
+</application>
